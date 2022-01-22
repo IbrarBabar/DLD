@@ -6,5 +6,5 @@
     * Project(4 Bit counter through D-Flip Flop)<br><br></h3>
     
     
-# Also DLD Lab folder which contain Assignments, Lab tasks.
+# Also DLD Lab folder contains Assignments, Lab tasks.
 
